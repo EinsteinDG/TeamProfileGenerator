@@ -25,8 +25,8 @@ See how it works in this video link [here](./assets/profilegenerator.mp4/)
 ## How to use
 
 💻 Below is the gif showing the functionality of the application:
-  
-![EinsteinDG Profile Generator](./assets/profilegenerator.gif/)
+
+![Animation](./Assets/profilegenerator.gif/)
 
 Clone this app down and run npm i, then node app.js. This will start the inquirer questions. Then go to the output folder and team.html file and display it in your browser to see all of your team members.
 
