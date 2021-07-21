@@ -1,4 +1,18 @@
-# Team Profile Generator
+# Team Profile Generator using Node.js
+
+
+<p align="center">
+    <img src="https://img.shields.io/github/languages/top/jpd61/README-generator"  />
+    <img src="https://img.shields.io/github/issues/EinsteinDG/Professional-ReadMe-Generator" />
+  
+<p align="center">
+    <img src="https://img.shields.io/badge/Javascript-yellow" />
+    <img src="https://img.shields.io/badge/jQuery-blue"  />
+    <img src="https://img.shields.io/badge/-node.js-green" />
+    <img src="https://img.shields.io/badge/-inquirer-red" >
+    <img src="https://img.shields.io/badge/-screencastify-lightgrey" />
+    <img src="https://img.shields.io/badge/-json-orange" />
+</p>
 
 https://github.com/EinsteinDG/TeamProfileGenerator
 
@@ -6,7 +20,7 @@ https://github.com/EinsteinDG/TeamProfileGenerator
 
 This is a command line app using inquirer that takes in information about team members and creates new instances of employee classes depending on their role. Information is then rendered and spit out into an HTML employee dashboard. Classes pass 17 jest tests.
 
-See how it works [here](./assets/profilegenerator.mp4/)
+See how it works in this video link [here](./assets/profilegenerator.mp4/)
 
 ## How to use
 
