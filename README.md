@@ -20,7 +20,7 @@ https://github.com/EinsteinDG/TeamProfileGenerator
 
 This is a command line app using inquirer that takes in information about team members and creates new instances of employee classes depending on their role. Information is then rendered and spit out into an HTML employee dashboard. Classes pass 17 jest tests.
 
-See how it works in this video link [here](./assets/profilegenerator.mp4/)
+See how it works in this video link [here](https://github.com/EinsteinDG/TeamProfileGenerator/blob/main/Assets/profilegenerator.mp4)
 
 ## How to use
 
